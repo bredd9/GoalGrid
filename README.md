@@ -60,3 +60,4 @@ Yes, we need the **Wi-Fi** capabilities to fetch live data from the internet, an
 
 ## Diagram
 
+![diagram](https://github.com/bredd9/GoalGrid/blob/62dfb514b39a324d23f8d05ec683fe3158b3433d/diagrama.jpg)
